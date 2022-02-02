@@ -1,6 +1,6 @@
 pyrogram
 tgcrypto
-py-tgcalls[pyrogram]
+git+https://github.com/Arshdhillon786/lavdalello@master
 python-dotenv
 youtube_search_python
 requests
