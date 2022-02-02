@@ -16,5 +16,5 @@ future
 psutil
 wget
 tswift
-youtube_dl
+git+https://github.com/Arshdhillon786/vvyoutubedl@master
 ujson
